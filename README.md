@@ -52,10 +52,10 @@ flutter run
 
 ## 📸 Screenshots
 
-<h3>🏠 Home Screen</h3>
+<h3>🏠 Home Screen 1</h3>
 <img src="https://github.com/user-attachments/assets/05d36a35-f4de-420d-8c3e-c187babd0c4d" alt="Home Screen" width="400"/>
 
-<h3>🔍 Event Search</h3>
+<h3>🏠 Home Screen< 2/h3>
 <img src="https://github.com/user-attachments/assets/99818e1e-9a60-47ae-9030-c8c9c2de93aa" alt="Event Search" width="400"/>
 
 <h3>📅 Event Details</h3>
@@ -67,10 +67,10 @@ flutter run
 <h3>❤️ Favorites</h3>
 <img src="https://github.com/user-attachments/assets/45a6b5b5-2c44-456a-89a3-a3471a7eabbb" alt="Favorites" width="400"/>
 
-<h3>🗺️ Map View</h3>
+<h3>❤️ Favorites</h3>
 <img src="https://github.com/user-attachments/assets/a57db3c2-fb0e-4b83-ab75-b0b65a8beb38" alt="Map View" width="400"/>
 
-<h3>⚙️ Settings</h3>
+<h3>🗺️ Map View</h3>
 <img src="https://github.com/user-attachments/assets/115c3864-a5ab-4c0d-82be-3cd153647947" alt="Settings" width="400"/>
 
 ## 📂 Project Structure
