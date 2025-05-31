@@ -58,10 +58,10 @@ flutter run
 <h3>🏠 Home Screen 2</h3>
 <img src="https://github.com/user-attachments/assets/99818e1e-9a60-47ae-9030-c8c9c2de93aa" alt="Event Search" width="400"/>
 
-<h3>📅 Event Details</h3>
+<h3>📍 Category Filter</h3>
 <img src="https://github.com/user-attachments/assets/2d1b5acc-ef42-415e-a625-425bd34eeefe" alt="Event Details" width="400"/>
 
-<h3>📍 Category Filter</h3>
+<h3>📅 Event Details</h3>
 <img src="https://github.com/user-attachments/assets/2b97c5a2-d8be-491f-8648-a1d3f342a90e" alt="Category Filter" width="400"/>
 
 <h3>❤️ Favorites</h3>
