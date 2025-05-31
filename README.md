@@ -55,7 +55,7 @@ flutter run
 <h3>🏠 Home Screen 1</h3>
 <img src="https://github.com/user-attachments/assets/05d36a35-f4de-420d-8c3e-c187babd0c4d" alt="Home Screen" width="400"/>
 
-<h3>🏠 Home Screen< 2/h3>
+<h3>🏠 Home Screen 2</h3>
 <img src="https://github.com/user-attachments/assets/99818e1e-9a60-47ae-9030-c8c9c2de93aa" alt="Event Search" width="400"/>
 
 <h3>📅 Event Details</h3>
